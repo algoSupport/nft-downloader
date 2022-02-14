@@ -1,4 +1,4 @@
-# OpenSea NFT Stealer
+# NFT Downloader
 The sole purpose of this script is to download any NFT collection from [OpenSea](https://opensea.io).
 
 ## Setup
